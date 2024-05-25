@@ -5,3 +5,4 @@ github: https://github.com/Anand3125
 weblink: https://growwithak.online/
 
 <img width="610" alt="Screenshot 2023-10-27 at 11 10 34 PM" src="https://github.com/Anand3125/Akfolio/assets/124582976/3826e46e-fa9b-4c6d-a3d6-d6f35ecb480f">
+![image](https://github.com/Anand3125/Akfolio/assets/124582976/fa3d94e8-554c-473f-a4a8-1274abd43477)
