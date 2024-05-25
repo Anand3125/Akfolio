@@ -3,7 +3,7 @@ This is my portfolio website, . 👋 Hello, I’m Anand. I'm a Full Stack develo
 
 github: https://github.com/Anand3125
 weblink: https://growwithak.online/
+![Screenshot_25-5-2024_152226_growwithak online](https://github.com/Anand3125/Akfolio/assets/124582976/8ec58a96-30ce-4281-bb1f-b3c82aa61c1b)
 
 
 
-![Screenshot_25-5-2024_151641_growwithak online](https://github.com/Anand3125/Akfolio/assets/124582976/17e4a812-61cf-491a-903d-2dacec09d73a)
