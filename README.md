@@ -4,6 +4,6 @@ This is my portfolio website, . 👋 Hello, I’m Anand. I'm a Full Stack develo
 github: https://github.com/Anand3125
 weblink: https://growwithak.online/
 
-<img width="610" alt="Screenshot 2023-10-27 at 11 10 34 PM" src="https://github.com/Anand3125/Akfolio/assets/124582976/3826e46e-fa9b-4c6d-a3d6-d6f35ecb480f">
+
 
 ![Screenshot_25-5-2024_151641_growwithak online](https://github.com/Anand3125/Akfolio/assets/124582976/17e4a812-61cf-491a-903d-2dacec09d73a)
